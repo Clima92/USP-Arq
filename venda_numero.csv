@@ -1,0 +1,11 @@
+FuncionarioID,Nome,Departamento,Vendas,Data,NumeroDeVendas
+1,Ana Silva,Vendas,1500,2023-01-15,10
+2,João Souza,Vendas,2000,2023-01-16,12
+3,Mariana Lima,Marketing,1300,2023-01-17,8
+4,Pedro Santos,Vendas,1700,2023-01-18,11
+5,Carla Oliveira,Financeiro,1900,2023-01-19,9
+6,Ricardo Pereira,Marketing,1800,2023-01-20,10
+7,Beatriz Costa,Vendas,2200,2023-01-21,14
+8,Fernando Gomes,Financeiro,2100,2023-01-22,13
+9,Patrícia Mendes,Marketing,1600,2023-01-23,9
+10,José Almeida,Vendas,2500,2023-01-24,15
